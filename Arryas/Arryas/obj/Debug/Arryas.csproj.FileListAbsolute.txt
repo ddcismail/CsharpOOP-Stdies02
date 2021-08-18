@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\C#2\Arryas\Arryas\bin\Debug\Arryas.exe.config
+C:\Users\DEDEC\Desktop\C#2\Arryas\Arryas\bin\Debug\Arryas.exe
+C:\Users\DEDEC\Desktop\C#2\Arryas\Arryas\bin\Debug\Arryas.pdb
+C:\Users\DEDEC\Desktop\C#2\Arryas\Arryas\obj\Debug\Arryas.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\C#2\Arryas\Arryas\obj\Debug\Arryas.Form1.resources
+C:\Users\DEDEC\Desktop\C#2\Arryas\Arryas\obj\Debug\Arryas.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\C#2\Arryas\Arryas\obj\Debug\Arryas.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\C#2\Arryas\Arryas\obj\Debug\Arryas.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\C#2\Arryas\Arryas\obj\Debug\Arryas.exe
+C:\Users\DEDEC\Desktop\C#2\Arryas\Arryas\obj\Debug\Arryas.pdb
