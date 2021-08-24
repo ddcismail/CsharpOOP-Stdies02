@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\C#2\listClass\listClass\bin\Debug\listClass.exe.config
+C:\Users\DEDEC\Desktop\C#2\listClass\listClass\bin\Debug\listClass.exe
+C:\Users\DEDEC\Desktop\C#2\listClass\listClass\bin\Debug\listClass.pdb
+C:\Users\DEDEC\Desktop\C#2\listClass\listClass\obj\Debug\listClass.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\C#2\listClass\listClass\obj\Debug\listClass.Form1.resources
+C:\Users\DEDEC\Desktop\C#2\listClass\listClass\obj\Debug\listClass.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\C#2\listClass\listClass\obj\Debug\listClass.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\C#2\listClass\listClass\obj\Debug\listClass.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\C#2\listClass\listClass\obj\Debug\listClass.exe
+C:\Users\DEDEC\Desktop\C#2\listClass\listClass\obj\Debug\listClass.pdb
