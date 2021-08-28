@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\C#2\StaticStatement\StaticStatement\bin\Debug\StaticStatement.exe.config
+C:\Users\DEDEC\Desktop\C#2\StaticStatement\StaticStatement\bin\Debug\StaticStatement.exe
+C:\Users\DEDEC\Desktop\C#2\StaticStatement\StaticStatement\bin\Debug\StaticStatement.pdb
+C:\Users\DEDEC\Desktop\C#2\StaticStatement\StaticStatement\obj\Debug\StaticStatement.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\C#2\StaticStatement\StaticStatement\obj\Debug\StaticStatement.Form1.resources
+C:\Users\DEDEC\Desktop\C#2\StaticStatement\StaticStatement\obj\Debug\StaticStatement.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\C#2\StaticStatement\StaticStatement\obj\Debug\StaticStatement.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\C#2\StaticStatement\StaticStatement\obj\Debug\StaticStatement.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\C#2\StaticStatement\StaticStatement\obj\Debug\StaticStatement.exe
+C:\Users\DEDEC\Desktop\C#2\StaticStatement\StaticStatement\obj\Debug\StaticStatement.pdb
