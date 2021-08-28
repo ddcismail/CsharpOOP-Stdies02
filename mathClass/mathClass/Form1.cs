@@ -101,9 +101,130 @@ namespace mathClass
             }
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void btnSign_Click(object sender, EventArgs e)
+        {
+            SetParameter(textBox1.Text);
+            if (!control)
+                MessageBox.Show("Text Boxları Doldurunuz!!");
+            else
+            {
+                textBox3.Text = Math.Sign(Convert.ToDecimal(firstNumber)).ToString();//Değer Pozitifse 1 Negatifse -1 değerini gösterir.
+            }
+        }
+
+        private void btnSin_Click(object sender, EventArgs e)
+        {
+            SetParameter(textBox1.Text);
+            if (!control)
+                MessageBox.Show("Text Boxları Doldurunuz!!");
+            else
+            {
+                double temp = (firstNumber * (Math.PI) / 180);
+                textBox3.Text = Math.Sin(temp).ToString();
+            }
+        }
+
+        private void btnCos_Click(object sender, EventArgs e)
+        {
+            SetParameter(textBox1.Text);
+            if (!control)
+                MessageBox.Show("Text Boxları Doldurunuz!!");
+            else
+            {
+                double temp = (firstNumber * (Math.PI) / 180);
+                textBox3.Text = Math.Cos(temp).ToString();
+            }
+        }
+
+        private void btnTan_Click(object sender, EventArgs e)
+        {
+            SetParameter(textBox1.Text);
+            if (!control)
+                MessageBox.Show("Text Boxları Doldurunuz!!");
+            else
+            {
+                double temp = (firstNumber * (Math.PI) / 180);
+                textBox3.Text = Math.Tan(temp).ToString();
+            }
+        }
+
+        private void btnPow_Click(object sender, EventArgs e)
         {
 
+            Set2Parameter(textBox1.Text, textBox2.Text);
+            if (!control)
+                MessageBox.Show("Text Boxları Doldurunuz!!");
+            else
+            {
+                textBox3.Text = Math.Pow((firstNumber), (seconderNumber)).ToString();
+            }
+        }
+
+        private void btnSiqrt_Click(object sender, EventArgs e)
+        {
+            SetParameter(textBox1.Text);
+            if (!control)
+                MessageBox.Show("Text Boxları Doldurunuz!!");
+            else
+            {
+                textBox3.Text = Math.Sqrt(firstNumber).ToString();
+            }
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            Set2Parameter(textBox1.Text, textBox2.Text);
+            if (!control)
+                MessageBox.Show("Text Boxları Doldurunuz!!");
+            else
+            {
+                textBox3.Text = Math.Log((firstNumber), (seconderNumber)).ToString();
+            }
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            SetParameter(textBox1.Text);
+            if (!control)
+                MessageBox.Show("Text Boxları Doldurunuz!!");
+            else
+            {
+                textBox3.Text = Math.Log10(firstNumber).ToString();
+            }
+        }
+
+        private void btnExp_Click(object sender, EventArgs e)
+        {
+            SetParameter(textBox1.Text);
+            if (!control)
+                MessageBox.Show("Text Boxları Doldurunuz!!");
+            else
+            {
+                textBox3.Text = Math.Exp(firstNumber).ToString();
+            }
+        }
+
+        private void btnCopyFirst_Click(object sender, EventArgs e)
+        {
+            if(textBox1.Text.Trim()!="")
+            textBox1.Text = textBox3.Text;
+            textBox2.Clear();
+            textBox3.Clear();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+           
         }
     }
 }

@@ -50,6 +50,7 @@ namespace mathClass
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.btnExit = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -87,6 +88,7 @@ namespace mathClass
             this.btnCopyFirst.TabIndex = 13;
             this.btnCopyFirst.Text = "Copy First";
             this.btnCopyFirst.UseVisualStyleBackColor = false;
+            this.btnCopyFirst.Click += new System.EventHandler(this.btnCopyFirst_Click);
             // 
             // btnExp
             // 
@@ -98,6 +100,7 @@ namespace mathClass
             this.btnExp.TabIndex = 12;
             this.btnExp.Text = "Exp";
             this.btnExp.UseVisualStyleBackColor = false;
+            this.btnExp.Click += new System.EventHandler(this.btnExp_Click);
             // 
             // button9
             // 
@@ -109,6 +112,7 @@ namespace mathClass
             this.button9.TabIndex = 11;
             this.button9.Text = "Log10";
             this.button9.UseVisualStyleBackColor = false;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button10
             // 
@@ -120,6 +124,7 @@ namespace mathClass
             this.button10.TabIndex = 10;
             this.button10.Text = "Log";
             this.button10.UseVisualStyleBackColor = false;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // btnSiqrt
             // 
@@ -131,6 +136,7 @@ namespace mathClass
             this.btnSiqrt.TabIndex = 9;
             this.btnSiqrt.Text = "Siqrt";
             this.btnSiqrt.UseVisualStyleBackColor = false;
+            this.btnSiqrt.Click += new System.EventHandler(this.btnSiqrt_Click);
             // 
             // btnPow
             // 
@@ -142,6 +148,7 @@ namespace mathClass
             this.btnPow.TabIndex = 8;
             this.btnPow.Text = "Pow";
             this.btnPow.UseVisualStyleBackColor = false;
+            this.btnPow.Click += new System.EventHandler(this.btnPow_Click);
             // 
             // btnTan
             // 
@@ -153,6 +160,7 @@ namespace mathClass
             this.btnTan.TabIndex = 7;
             this.btnTan.Text = "Tan";
             this.btnTan.UseVisualStyleBackColor = false;
+            this.btnTan.Click += new System.EventHandler(this.btnTan_Click);
             // 
             // btnCos
             // 
@@ -164,6 +172,7 @@ namespace mathClass
             this.btnCos.TabIndex = 6;
             this.btnCos.Text = "Cos";
             this.btnCos.UseVisualStyleBackColor = false;
+            this.btnCos.Click += new System.EventHandler(this.btnCos_Click);
             // 
             // btnSin
             // 
@@ -175,6 +184,7 @@ namespace mathClass
             this.btnSin.TabIndex = 5;
             this.btnSin.Text = "Sin";
             this.btnSin.UseVisualStyleBackColor = false;
+            this.btnSin.Click += new System.EventHandler(this.btnSin_Click);
             // 
             // btnSign
             // 
@@ -186,6 +196,7 @@ namespace mathClass
             this.btnSign.TabIndex = 4;
             this.btnSign.Text = "Sign";
             this.btnSign.UseVisualStyleBackColor = false;
+            this.btnSign.Click += new System.EventHandler(this.btnSign_Click);
             // 
             // btnAbs
             // 
@@ -289,11 +300,24 @@ namespace mathClass
             this.label3.TabIndex = 6;
             this.label3.Text = "Result";
             // 
+            // btnExit
+            // 
+            this.btnExit.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnExit.Location = new System.Drawing.Point(281, 301);
+            this.btnExit.Name = "btnExit";
+            this.btnExit.Size = new System.Drawing.Size(79, 43);
+            this.btnExit.TabIndex = 9;
+            this.btnExit.Text = "Exit";
+            this.btnExit.UseVisualStyleBackColor = false;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnExit);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -333,6 +357,7 @@ namespace mathClass
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button btnExit;
     }
 }
 
