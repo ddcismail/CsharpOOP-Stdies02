@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\C#2\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\DEDEC\Desktop\C#2\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\DEDEC\Desktop\C#2\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\DEDEC\Desktop\C#2\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\C#2\Inheritance\Inheritance\obj\Debug\Inheritance.Form1.resources
+C:\Users\DEDEC\Desktop\C#2\Inheritance\Inheritance\obj\Debug\Inheritance.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\C#2\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\C#2\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\C#2\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\DEDEC\Desktop\C#2\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
