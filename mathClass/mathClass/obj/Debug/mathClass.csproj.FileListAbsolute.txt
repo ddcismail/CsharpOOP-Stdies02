@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\C#2\mathClass\mathClass\bin\Debug\mathClass.exe.config
+C:\Users\DEDEC\Desktop\C#2\mathClass\mathClass\bin\Debug\mathClass.exe
+C:\Users\DEDEC\Desktop\C#2\mathClass\mathClass\bin\Debug\mathClass.pdb
+C:\Users\DEDEC\Desktop\C#2\mathClass\mathClass\obj\Debug\mathClass.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\C#2\mathClass\mathClass\obj\Debug\mathClass.Form1.resources
+C:\Users\DEDEC\Desktop\C#2\mathClass\mathClass\obj\Debug\mathClass.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\C#2\mathClass\mathClass\obj\Debug\mathClass.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\C#2\mathClass\mathClass\obj\Debug\mathClass.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\C#2\mathClass\mathClass\obj\Debug\mathClass.exe
+C:\Users\DEDEC\Desktop\C#2\mathClass\mathClass\obj\Debug\mathClass.pdb
