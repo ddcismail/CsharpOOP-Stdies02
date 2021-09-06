@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\C#2\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\DEDEC\Desktop\C#2\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\DEDEC\Desktop\C#2\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\DEDEC\Desktop\C#2\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\C#2\Interface\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\DEDEC\Desktop\C#2\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\C#2\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\C#2\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\C#2\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\DEDEC\Desktop\C#2\Interface\Interface\obj\Debug\Interface.pdb
